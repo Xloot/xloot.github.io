@@ -93,7 +93,7 @@ Command      | Fungsi
 
 # Join Sekarang!
 
-Jika kalian menemukan bug atau punya ide untuk update server, bisa request di "Pull Request".
+Jika kalian menemukan bug atau punya ide untuk update server, bisa request di "Issues".
 by Davie ~ by Xloot
 
-[Link Pull Request](https://github.com/Xloot/xloot.github.io/compare)
+[Link Pull Request](https://github.com/Xloot/xloot.github.io/issues/new/choose)
