@@ -95,3 +95,5 @@ Command      | Fungsi
 
 Jika kalian menemukan bug atau punya ide untuk update server, bisa request di "Pull Request".
 by Davie ~ by Xloot
+
+[Link Pull Request](https://github.com/Xloot/xloot.github.io/compare)
