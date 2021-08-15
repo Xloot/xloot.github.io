@@ -96,4 +96,4 @@ Command      | Fungsi
 Jika kalian menemukan bug atau punya ide untuk update server, bisa request di "Issues".
 by Davie ~ by Xloot
 
-[Link Pull Request](https://github.com/Xloot/xloot.github.io/issues/new/choose)
+[Link Issues](https://github.com/Xloot/xloot.github.io/issues/new/choose)
