@@ -5,6 +5,8 @@
 Minecraft PE server Indonesia. Dengan menggunakan Pocketmine-MP. Oleh Xloot.
 Halo dan Selamat datang di Repositori Github Loot of Realm!👋
 
+<a href="https://minecraftpocket-servers.com/server/112326/"><img src="https://minecraftpocket-servers.com/server/112326/banners/half-banner-3.png" border="0"></a>
+
 ## Daftar Isi
 
 * [1. Tentang](#1-tentang)
