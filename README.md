@@ -1,8 +1,8 @@
 ## Menu
 ___
 
-### [Files]()
+### [Files](SOURCE.md)
 
-### [Server]()
+### [Server](SERVER.md)
 
 ___
